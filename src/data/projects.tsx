@@ -501,7 +501,7 @@ const projects: Project[] = [
     src: "/assets/projects-screenshots/portfolio/landing.png",
     screenshots: ["1.png"],
     live: "http://ashishmishra.vercel.app",
-    github:"https://github.com/Naresh-Khatri/Portfolio",
+    github:"https://github.com/Ashish0209/My-Portfolio",
     skills: {
       frontend: [
         PROJECT_SKILLS.ts,
