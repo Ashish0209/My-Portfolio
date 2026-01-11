@@ -248,14 +248,14 @@ export type Experience = {
 export const EXPERIENCE: Experience[] = [
   {
     id: 1,
-    startDate: "Dec 2024",
+    startDate: "Apr 2025",
     endDate: "Present",
-    title: "Full Stack Engineer",
-    company: "OmniNexus",
+    title: "SOFTWARE DEVELOPEMENT IN TEST",
+    company: "LAMBDATEST",
     description: [
-      "Developing scalable full-stack applications involved in complex systems.",
-      "Optimizing database performance and query efficiency.",
-      "Collaborating on architectural decisions and technical strategy.",
+      "Developing and executing automated test cases for web applications.",
+      "Validating APIs, databases, and application workflows for reliability.",
+      "Collaborating with developers to improve test coverage and quality.",
     ],
     skills: [
       SkillNames.NEXTJS,
@@ -267,14 +267,14 @@ export const EXPERIENCE: Experience[] = [
   },
   {
     id: 2,
-    startDate: "Apr 2022",
-    endDate: "Dec 2024",
-    title: "Freelance Developer",
-    company: "Live & Learn",
+    startDate: "Jan 2025",
+    endDate: "Feb 2025",
+    title: "Backend Developer",
+    company: "Zimyo HR Software",
     description: [
-      "Delivered custom web solutions for diverse clients.",
-      "Managed full project lifecycles from design to deployment.",
-      "Maintained high client satisfaction through effective communication.",
+      "Developed backend APIs using Node.js and REST principles.",
+      "Worked with databases to store, retrieve, and manage application data.",
+      "Learned and applied backend best practices through hands-on projects.",
     ],
     skills: [
       SkillNames.REACT,

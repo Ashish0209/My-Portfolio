@@ -29,17 +29,17 @@ const config = {
 
   // for github stars button
   githubUsername: "Ashish0209",
-  githubRepo: "3d-portfolio",
+  githubRepo: "My-Portfolio",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    twitter: "https://x.com/nothotchaddi",
-    linkedin: "https://www.linkedin.com/in/naresh-khatri/",
-    instagram: "https://www.instagram.com/hotchaddi",
-    facebook: "https://www.facebook.com/HotChaddi/",
-    github: "https://github.com/Naresh-Khatri",
+    twitter: "https://x.com/",
+    linkedin: "https://www.linkedin.com/in/ashish-mishra-bb3b6b20a/",
+    instagram: "https://www.instagram.com",
+    facebook: "https://www.facebook.com/",
+    github: "https://github.com/Ashish0209",
   },
 };
 export { config };
